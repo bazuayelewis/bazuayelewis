@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9nbTQ3NnkzZXA1ZDByM3Y1aDIwMHp2ZmlwbzM1MzV2cjUzd21heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250"/>
+</div>
+
 <h1>
   Hi, I am Lewis
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -50,3 +55,5 @@ Here are a couple of things about me:
 
 <img src="https://komarev.com/ghpvc/?username=bazuayelewis&style=flat-square&color=blue" alt=""/>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazuayelewis&show_icons=true&include_all_commits=true&hide_border=true" alt="Lewis Bazuaye's GitHub stats" />
